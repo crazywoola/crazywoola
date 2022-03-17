@@ -1,7 +1,3 @@
-> Where other men blindly follow the truth, Remember, nothing is true.  
-Where other men are limited by morality or law, Remember, everything is permitted.  
-We work in the dark to serve the light.  
-
 <table style="border-collapse: collapse;  border: 1px solid black;">
   <tbody>
      <tr>
@@ -24,3 +20,7 @@ We work in the dark to serve the light.
     </tr>
   </tbody>
 </table>
+
+> Where other men blindly follow the truth, Remember, nothing is true.  
+Where other men are limited by morality or law, Remember, everything is permitted.  
+We work in the dark to serve the light.  
