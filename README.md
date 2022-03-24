@@ -1,12 +1,12 @@
-<table style="border-collapse: collapse;  border: 1px solid black;">
-  <tbody>
-     <tr>
-       <td style=" border: 1px solid black;">
-         <img src="https://badges.pufler.dev/visits/crazywoola/crazywoola?style=for-the-badge" />
-       </td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://pufler.dev/git-badges/">
+  <img align="center" src="https://badges.pufler.dev/visits/crazywoola/crazywoola" />
+</a>
+<a href="https://pufler.dev/git-badges/">
+  <img align="center" src="https://badges.pufler.dev/years/crazywoola" />
+</a>
+<a href="https://pufler.dev/git-badges/">
+  <img align="center" src="https://badges.pufler.dev/repos/crazywoola" />
+</a>
 
 <table style="border-collapse: collapse;  border: 1px solid black;">
   <tbody>
@@ -20,6 +20,11 @@
     </tr>
   </tbody>
 </table>
+
+<br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazywoola&langs_count=3&hide_title=true&hide_border=true" />
+</a>
 
 > Where other men blindly follow the truth.  
 Remember, nothing is true.  
