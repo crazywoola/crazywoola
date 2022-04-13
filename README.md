@@ -11,7 +11,7 @@ We work in the dark to serve the light.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazywoola" />
-  <img src="https://github-readme-stats.vercel.app/api?username=crazywoola&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazywoola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 
 <h2 align="center">
