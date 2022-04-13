@@ -10,8 +10,8 @@ We work in the dark to serve the light.
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazywoola" />
-  <img src="https://github-readme-stats.vercel.app/api?username=crazywoola&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crazywoola&theme=maroongold&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=crazywoola&show_icons=true&count_private=true&include_all_commits=true&theme=maroongold" />
 </div>
 
 <h2 align="center">
@@ -35,7 +35,7 @@ We work in the dark to serve the light.
   Top Languages
 </h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazywoola&langs_count=3&hide_title=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazywoola&langs_count=3&hide_title=true&hide_border=true&theme=gotham" />
 </div>
 
 
