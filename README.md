@@ -20,13 +20,7 @@ We work in the dark to serve the light.
 
 <div align="center">
   <span>
-    <img align="center" src="https://badges.pufler.dev/years/crazywoola" />
-  </span>
-  <span>
     <img align="center" src="https://badges.pufler.dev/repos/crazywoola" />
-  </span>
-  <span>
-    <img align="center" src="https://badges.pufler.dev/visits/crazywoola/crazywoola" />
   </span>
 </div>
 
