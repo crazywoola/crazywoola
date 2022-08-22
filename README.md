@@ -15,17 +15,6 @@ We work in the dark to serve the light.
 </div>
 
 <h2 align="center">
-  Badges
-</h2>
-
-<div align="center">
-  <span>
-    <img align="center" src="https://badges.pufler.dev/repos/crazywoola" />
-  </span>
-</div>
-
-
-<h2 align="center">
   Top Languages
 </h2>
 <div align="center">
