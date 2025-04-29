@@ -13,4 +13,4 @@ We work in the dark to serve the light.
 
 ### Buy Me a Coffee
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pinkbanana)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/pinkbanana)
