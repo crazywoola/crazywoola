@@ -13,4 +13,4 @@ We work in the dark to serve the light.
 
 ### Buy Me a Coffee
 
-![bmc_qr](https://github.com/user-attachments/assets/82471077-a757-43cf-bdef-a583df36f55e)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pinkbanana)
