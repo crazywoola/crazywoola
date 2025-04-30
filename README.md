@@ -5,12 +5,8 @@ Where other men are limited by morality or law.
 Remember, everything is permitted.  
 We work in the dark to serve the light.  
 
-### Contact Me
-
-<a href = "https://discord.gg/UcBxesHhvb"><img alt="Discord" src="https://img.shields.io/discord/1251735619177283614?style=social&logo=discord&label=Pink Banana"></a>
-<a href = "https://x.com/crazyphage"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/crazyphage?link=https%3A%2F%2Ftwitter.com%2FTk206_"></a>
-<a href = "https://github.com/crazywoola"><img alt="GitHub followers" src="https://img.shields.io/github/followers/crazywoola?style=social&logo=github"></a>
-
-### Buy Me a Coffee
+<a href="https://trendshift.io/developers/5644" target="_blank">
+  <img src="https://trendshift.io/api/badge/developers/5644" alt="crazywoola | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
+</a>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/pinkbanana)
