@@ -9,4 +9,4 @@ We work in the dark to serve the light.
   <img src="https://trendshift.io/api/badge/developers/5644" alt="crazywoola | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
 </a>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/pinkbanana)
+<a href="https://www.buymeacoffee.com/pinkbanana" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
