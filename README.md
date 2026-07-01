@@ -5,7 +5,7 @@ Where other men are limited by morality or law.
 Remember, everything is permitted.  
 We work in the dark to serve the light.  
 
-[![GitHub Roast](https://ghfind.com/api/card/crazywoola?theme=light)](https://ghfind.com/u/crazywoola)
+<a href="https://ghfind.com/u/crazywoola"><img src="https://ghfind.com/api/card/crazywoola?theme=light" alt="GitHub Roast" width="600" /></a>
 
 <a href="https://trendshift.io/developers/5644" target="_blank">
   <img src="https://trendshift.io/api/badge/developers/5644" alt="crazywoola | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
